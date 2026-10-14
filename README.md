@@ -1,2 +1,2 @@
-# VOIDTIERS.github.i
+# voidtiers.github.i
 VOID-TIERS
